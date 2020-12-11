@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stoper</string>
+    <string name="startLabel">Start</string>
+    <string name="stopLabel">Stop</string>
+    <string name="resetLabel">Reset</string>
+    <string name="timeLabel">Okres połowicznego rozpadu [s]</string>
+    <string name="massLabel">Masa początkowa [g]</string>
+
+    <string name="zero_error">Wprowadź okres połowicznego rozpadu i masę</string>
+</resources>
